@@ -8,8 +8,12 @@ env/
 ClearDataset/
 frames/
 videos/
+yolo_dataset/
+runs/
 
 # Системные файлы и кэш
 __pycache__/
 *.py[cod]
 .DS_Store
+*.pt
+*.jpg
