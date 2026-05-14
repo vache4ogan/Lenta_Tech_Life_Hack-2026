@@ -49,8 +49,6 @@ ShelfVision/
 
 
 
----
-
 ## 📄 Авторы
 Vache — Lead CV Engineer / ML Developer
 ShelfVision 2026 | Специально для Lenta Tech
